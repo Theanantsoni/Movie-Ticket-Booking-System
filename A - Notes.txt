@@ -1,0 +1,46 @@
+12/08 : DB TABLE Image display in About 
+
+Backgrond changes done...
+
+Email Verification and reset password done...
+
+Register and login data insert complete .. 
+
+Ticket Data Insert Complete ...
+
+First register After Login and After Book the Movie Ticket
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Movie Form Booking System : 
+
+Book form
+	"
+Insert form
+	"
+Check Email
+	"
+When Correct
+	"
+Check date & time & seat row & movie name & ticket number
+	"
+when same then that related & same all date & time & seat row's & movie name & ticket numbers.
+	"
+Ticket Number >= 10
+	"
+Book Ticket
+	"
+All field data will be inserted on the table.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- First Register -> Second Login -> Third Booking
+- At the time of book form. After click on book form check the email on the database table ticket field u_email. 
+- when exists on the login table field name u_email. Then check the field date, field time, field choose seat & field ticket number on the table ticket name is u_date, u_time, u_seat & u_tcktno. 
+- When all fields are same then that related all fields check. All same fields ticket number's make the addition. 
+- When ticket number addition will be greater then equal to 10 Then book the ticket and insert the all book form field on the ticket table. 
+- Otherwise display the message for ticket will be not booked on this date, time, choose seat & ticket number.
+
+
+
+ 
