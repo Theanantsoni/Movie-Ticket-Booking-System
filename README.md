@@ -1,6 +1,6 @@
-𝐌𝐨𝐯𝐢𝐞 𝐓𝐢𝐜𝐤𝐞𝐭 𝐁𝐨𝐨𝐤𝐢𝐧𝐠
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐀𝐧𝐚𝐧𝐭 𝐒𝐨𝐧𝐢
+Movie Ticket Booking
+Author : Anant Soni
 
-𝐌𝐨𝐯𝐢𝐞 𝐓𝐢𝐜𝐤𝐞𝐭 𝐁𝐨𝐨𝐤𝐢𝐧𝐠 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐔𝐬𝐢𝐧𝐠 𝐏𝐇𝐏.
+Movie Ticket Booking Website Using PHP.
 
-[𝐂𝐥𝐢𝐞𝐧𝐭-𝐒𝐢𝐝𝐞 & 𝐀𝐝𝐦𝐢𝐧-𝐒𝐢𝐝𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭]
+[Client-Side & Admin-Side Website Project]
